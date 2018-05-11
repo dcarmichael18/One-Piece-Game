@@ -1,0 +1,118 @@
+Skill 1 Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 3 Dual Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 4 Double Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 5 Triple Attack: Damage Formula: a.atk * 4 - b.def * 2
+Skill 8 Fire Breath: Damage Formula: a.atk
+Skill 9 Ice Breath: Damage Formula: a.atk
+Skill 10 Shock: Damage Formula: a.atk
+Skill 21 Bodyslam: Damage Formula: a.atk * 4 - b.def * 2
+Skill 23 Vampire: Damage Formula: a.atk * 2 - b.def
+Skill 24 Meditate: Damage Formula: b.mhp / 4
+Skill 26 Heal: Damage Formula: 250 + a.mat
+Skill 27 Heal II: Damage Formula: 1000 + a.mat * 2
+Skill 28 Heal III: Damage Formula: 4000 + a.mat * 4
+Skill 29 Recovery: Damage Formula: 250 + a.mat
+Skill 30 Recovery II: Damage Formula: 1000 + a.mat * 2
+Skill 33 Raise: Damage Formula: b.mhp / 10
+Skill 34 Raise II: Damage Formula: b.mhp / 2
+Skill 49 Life Drain: Damage Formula: 200 + a.mat * 4 - b.mdf * 2
+Skill 50 Mana Drain: Damage Formula: 20 + a.mat - b.mdf * 0.5
+Skill 51 Fire: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 52 Fire II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 53 Flame: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 54 Flame II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 55 Ice: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 56 Ice II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 57 Blizzard: Damage Formula: 150 + a.mat * 2 - b.mdf * 2
+Skill 58 Blizzard II: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 59 Thunder: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 60 Thunder II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 61 Spark: Damage Formula: 200 + a.mat * 2 - b.mdf * 2
+Skill 62 Spark II: Damage Formula: 500 + a.mat * 2 - b.mdf * 2
+Skill 63 Water: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 64 Wave: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 65 Stone: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 66 Quake: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 67 Wind: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 68 Tornado: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 69 Saint: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 70 Starlight: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 71 Shade: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 72 Darkness: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 73 Burst: Damage Formula: 300 + a.mat * 2
+Skill 74 Nuclear: Damage Formula: 300 + a.mat * 2
+Skill 78 Conquerer's Haki: Damage Formula: a.atk * 7 - b.def * 1.5
+Skill 80 Gear Second: Damage Formula: a.atk * 0.15
+Skill 82 Gum Gum Bazooka: Damage Formula: a.atk * 2.5 - b.def
+Skill 83 Gum Gum Gatling: Damage Formula: a.atk * 2 - b.def
+Skill 84 Delicious Meat: Damage Formula: mhp*1
+Skill 86 Gum Gum Scythe: Damage Formula: a.atk * 2 - b.def * 1.5
+Skill 87 Gum Gum Axe: Damage Formula: a.atk * 3 - b.def
+Skill 91 Gum Gum Storm: Damage Formula: a.atk * 2 + a.luk * 3 - b.def * 2
+Skill 93 Gum Gum Red Hawk: Damage Formula: a.atk * 15 - b.def
+Skill 94 Onigiri: Damage Formula: 3 * (a.atk * 4 - b.def * 2)
+Skill 95 Lion Song: Damage Formula: a.atk
+Skill 96 Tiger Hunt: Damage Formula: a.atk * 4.5 - b.def * 2
+Skill 97 Dragon Twister: Damage Formula: a.atk * 5 - b.def * 2
+Skill 98 Streaming Wolf Swords: Damage Formula: a.atk * 4 - b.def * 2
+Skill 99 Crab Grab: Damage Formula: a.atk * 8 - b.def * 4
+Skill 100 108 Pound Phoenix: Damage Formula: a.atk * 4 - b.def * 2
+Skill 103 Three Thousand Worlds: Damage Formula: a.atk * 12 - b.def * 6
+Skill 104 Great Dragon Twister: Damage Formula: a.atk * 10 - b.def * 4
+Skill 105 Asura: Damage Formula: a.atk * 9 - b.def
+Skill 109 Gust Sword: Damage Formula: a.mat*4 - m.mdf*2
+Skill 110 Thunder Breed Tempo: Damage Formula: a.mat * 6 - b.mdf * 2
+Skill 112 Thunder Trap: Damage Formula: a.mat * 5 - b.mdf*2
+Skill 114 Thunder Lance: Damage Formula: a.mat * 7 - b.mdf * 3
+Skill 117 Fire Bird Star: Damage Formula: a.atk *3 + a.mat - b.def
+Skill 118 Gunpowder Star: Damage Formula: 2.5 * (2 * a.atk + 2 * a.mat - 2 *b.def)
+Skill 120 Charging Shooting Star: Damage Formula: a.atk * 3 + a.mat * 3 - b.def * 2
+Skill 122 Bamboo Javelin: Damage Formula: a.atk * 4 - b.def * 2
+Skill 124 Impact Wolf: Damage Formula: a.atk * 3 + a.mat * 2 - b.def * 3
+Skill 127 Mutton Shot: Damage Formula: a.atk * 6 - b.def * 3
+Skill 128 Anti-Manner Kick Course: Damage Formula: a.atk * 8 - b.def * 4
+Skill 129 Collier Shoot: Damage Formula: a.atk * 2.5 - b.def * 1.5
+Skill 130 Epaule Shoot: Damage Formula: a.atk * 2 - b.def * 2
+Skill 131 Concasse: Damage Formula: a.atk * 4 - b.def
+Skill 133 Party Table Kick Course: Damage Formula: a.atk * 4.5 - b.def * 2
+Skill 134 Diable Jambe: Damage Formula: a.atk * 7 - b.def * 2
+Skill 137 Peacock Slash: Damage Formula: a.atk * 3 - b.def
+Skill 138 Invigorating Words: Damage Formula: 250 + a.mat
+Skill 140 Dos Fleur Clutch: Damage Formula: a.mat * 4 - b.def * 2
+Skill 141 Ocho Fleur Clutch: Damage Formula: a.mat - b.mdf
+Skill 142 Nueve Fleur Twist: Damage Formula: a.mat * 5 - b.def * 2
+Skill 143 Once Fleur Slam: Damage Formula: a.mat * 11 - b.def * 10
+Skill 145 Trienta Fleur Strangle: Damage Formula: a.mat * 3 - b.def
+Skill 146 Cuatro Manos Shock: Damage Formula: a.mat * 7 - b.def * 3
+Skill 149 Gigantesco Mano Stomp: Damage Formula: a.mat * 5 - b.def
+Skill 150 Cinco Mano Spank: Damage Formula: a.mat * 6 - b.def
+Skill 151 Healing Surgery: Damage Formula: 4000 + a.mat * 4
+Skill 152 Amputate: Damage Formula: a.mat * 4 - b.mdf * 2
+Skill 153 Shambles: Damage Formula: a.mat - b.mdf
+Skill 154 Tact: Damage Formula: a.mat * 4 - b.mdf
+Skill 156 Scalpel: Damage Formula: a.mat * 10 - b.mdf * 2
+Skill 157 Counter Shock: Damage Formula: a.mat * 5 - b.mdf * 2
+Skill 158 Radio Knife: Damage Formula: a.mat * 4 + a.atk * 2 - b.mdf + b.def
+Skill 159 Injection Shot: Damage Formula: a.atk * 4 - b.def
+Skill 160 Gamma Knife: Damage Formula: a.mat * 15 - b.mdf * 3
+Skill 173 Flame: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 174 Blaze: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 175 Chill: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 176 Freeze: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 177 Bolt: Damage Formula: 300 + a.mat * 2 - b.mdf * 2
+Skill 178 Storm: Damage Formula: 400 + a.mat * 2 - b.mdf * 2
+Skill 182 Armee de l'Air Power Shoot: Damage Formula: a.atk * 16 - b.def * 8
+Common Event 3 Inspiring Words Line 1:  - Script call: $x = Random.new.rand(1..6) 
+Common Event 3 Inspiring Words Line 2:  - Script call: $game_variables[100] = $x
+Common Event 4 Perpetual Youth Surgery Line 20:  - Script call: $game_actors[8].change_class(18, true)
+Common Event 5 Recover All (Real Death) Line 1:  - Script call: recover_all
+Common Event 7 Fight a Girl Line 5:  - Script call: $game_actors[5].change_class(9, true)
+Common Event 8 Done Fighting a Girl Line 3:  - Script call: $game_actors[5].change_class(5, true)
+Common Event 9 Zoro Class Line 1:  - Script call: $game_actors[2].change_class(2, true)
+Common Event 11 Cure Real Death Line 6:  - Script call: $game_actors[9].change_class(9, true)
+Map 13 Victory Island - Event 11 Zoro (43,193) - Page 1 Line 31:  - Script call: $game_temp.lfmr_follower = 'Sanji'
+Map 17 Pyramid Floor 1 - Event 1 Exit (28,54) - Page 1 Line 16:  - Script call: $game_temp.lfmr_follower = 'Zoro'
+Map 25 Slime Castle Floor 3 - Event 4 save snoj! (23,15) - Page 3 Line 15:  - Script call: $game_temp.lfmr_follower = 'Zoro'
+Map 25 Slime Castle Floor 3 - Event 4 save snoj! (23,15) - Page 5 Line 32:  - Script call: $game_temp.lfmr_follower = 'Nami'
+Map 34 Spider Island - Event 7 Jeremy (32,32) - Page 1 Line 162:  - Script call: $game_temp.lfmr_follower = 'Sanji'
+Map 34 Spider Island - Event 7 Jeremy (32,32) - Page 1 Line 164:  - Script call: $game_temp.lfmr_follower = 'Zoro'
